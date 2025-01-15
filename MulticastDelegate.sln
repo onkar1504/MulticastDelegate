@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegate", "MulticastDelegate\MulticastDelegate.csproj", "{C1657718-8B5F-4AAD-AE06-CF65A7A1D3DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticasteDelegates2", "MulticasteDelegates2\MulticasteDelegates2.csproj", "{DA75AE33-215F-449C-8A02-5300856F5A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C1657718-8B5F-4AAD-AE06-CF65A7A1D3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1657718-8B5F-4AAD-AE06-CF65A7A1D3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1657718-8B5F-4AAD-AE06-CF65A7A1D3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA75AE33-215F-449C-8A02-5300856F5A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA75AE33-215F-449C-8A02-5300856F5A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA75AE33-215F-449C-8A02-5300856F5A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA75AE33-215F-449C-8A02-5300856F5A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
